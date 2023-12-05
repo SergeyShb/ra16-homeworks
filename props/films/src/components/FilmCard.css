@@ -1,0 +1,48 @@
+
+
+.movie__info {
+    position: relative;
+    display: flex;
+    background-color: rgb(229, 221, 221);
+    border: 1px solid black;
+    margin: 50px;
+    width: 500px;
+}
+
+
+.movie__poster {
+    position: relative;
+    top: -25px;
+    right: -25px;
+    width: 100px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+
+
+
+
+
+
+.movie__description {
+    
+    margin-left: 50px;
+}
+
+.movie__title {
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.movie .movie__synopsis {
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+
+.movie .movie__data {
+    font-size: 1.4rem;
+    font-weight: 300;
+    margin-top: 1rem;
+}
